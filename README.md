@@ -1,7 +1,6 @@
 # Hello, I'm Riley Bossi
 <a href="https://www.linkedin.com/in/riley-bossi-b08729295"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-[Brief Introduction - Remove this afterwards]
 Passionate and ambitious computer science student with a 3.8 GPA, certified in CompTIA
 Security+ and Network+. Skilled in Java, Python, SQL, and cybersecurity tools (Splunk,
 Wireshark, Snort, etc). Strong multitasking and problem-solving abilities, with hands-on
