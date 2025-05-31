@@ -1,5 +1,5 @@
 # Hello, I'm Riley Bossi
-<a href="www.linkedin.com/in/riley-bossi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/riley-bossi-b08729295"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 [Brief Introduction - Remove this afterwards]
 
