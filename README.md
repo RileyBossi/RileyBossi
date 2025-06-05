@@ -38,9 +38,9 @@ I actively stay up to date with cybersecurity trends, tools, and threat intellig
 Completed modules from **SOC Level 1** as well as their **SOC Simulator** and actively progressing through **SOC Level 2**, focusing on real-world analyst skills.
 
 #### Key Topics Covered:
--Cyber Defense Frameworks including MITRE frameworks and threat actor mapping
--Cyber Threat Intelligence with **OpenCTI**, **Yara**, and **MISP**
--Endpoit secuirty monitoring with **Sysmon**, **Wazuh**, **Windows Event Logs**
+- Cyber Defense Frameworks including MITRE frameworks and threat actor mapping
+- Cyber Threat Intelligence with **OpenCTI**, **Yara**, and **MISP**
+- Endpoit secuirty monitoring with **Sysmon**, **Wazuh**, **Windows Event Logs**
 - SIEM fundamentals and log analysis with **Splunk** and **ELK Stack**
 - Network forensics with **Wireshark**, **Brim**, and **Snort**
 - Malware analysis basics with tools like **Autopsy**
