@@ -7,10 +7,13 @@ Wireshark, Snort, etc). Strong multitasking and problem-solving abilities, with 
 experience through at home labs on network security and system configuration.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## How I Stay Informed
+
+## Certificates
+<img src="https://www.google.com/imgres?q=comptia&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2F1d9d2038-abf7-49b4-a8db-c6fb884dfdb5%2Fblob.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forg%2Fcomptia&docid=b6rk67d_iGO1XM&tbnid=ILnMhqYY8tu5_M&vet=12ahUKEwix-oPRmNmNAxXdCnkGHfK1PHEQM3oECB4QAA..i&w=600&h=600&hcb=2&ved=2ahUKEwix-oPRmNmNAxXdCnkGHfK1PHEQM3oECB4QAA![image](https://github.com/user-attachments/assets/5aae72f8-c312-4d9b-9a38-3241f0a43180)"
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+
+
