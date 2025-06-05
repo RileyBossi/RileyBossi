@@ -18,15 +18,14 @@ Google Cybersecurity Proffessional Certificate
 TryHackMe SOC Level 1
 TryHackMe SOC Level 2 (In Progress, aiming for August completion) 
 ## Projects
-TryHackMe Labs
-SOC Siulator, vuild on this with the additon of what you learn from SOC level 1
-At Home Lab
+# TryHackMe Labs
+Through TryHackMe Labs, I learned the essential skills and tools needed to be successful as a level 1 SOC analyst. I read about tools including Autopsy, Splunk, Wireshark, TCP dump, 
+# At Home Lab
 Configured a segmented lab using **pfSense**, **Kali Linux**, and **Windows VMs** to practice:
 - Firewall rules
 - VLAN isolation
 - IDS/IPS configuration
 - Nmap scanning and packet analysis
 
-## Technical Skills
 
 
