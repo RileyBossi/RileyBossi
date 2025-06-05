@@ -1,31 +1,98 @@
 # Hello, I'm Riley Bossi
-<a href="https://www.linkedin.com/in/riley-bossi-b08729295"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Passionate and ambitious computer science student with a 3.8 GPA, certified in CompTIA
-Security+ and Network+. Skilled in Java, Python, SQL, and cybersecurity tools (Splunk,
-Wireshark, Snort, etc). Strong multitasking and problem-solving abilities, with hands-on
-experience through at home labs on network security and system configuration.
+<a href="https://www.linkedin.com/in/riley-bossi-b08729295">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+I'm a passionate and ambitious **Computer Science student** with a **3.8 GPA**, currently studying at Central Connecticut State University.  
+I'm certified in **CompTIA Security+** and **Network+**, and have hands-on experience through personal labs focused on **network security**, **firewall configuration**, and **intrusion detection**.
+
+---
 
 ## How I Stay Informed
-I stay current with cybersecurity trends, techniques, and threats by listening to Gerald Auger's Simply Cyber Podcast(https://www.youtube.com/@SimplyCyber) and by reading articles on CSO Online.
 
-## Certificates
-Comp TIA Security+
-Comp TIA Network+
-Comp TIA CYSA+ (Studying for August 2025 exam)
-Microsoft SC-900: Security, Compliance & Identity Fundamentals
-Google Cybersecurity Proffessional Certificate
-TryHackMe SOC Level 1
-TryHackMe SOC Level 2 (In Progress, aiming for August completion) 
+I actively stay up to date with cybersecurity trends, tools, and threat intelligence by:
+
+- Listening to [**Gerald Auger's Simply Cyber Podcast**](https://www.youtube.com/@SimplyCyber)
+- Reading articles on **CSO Online** and other industry blogs
+- Participating in **TryHackMe** labs and training pathways
+
+---
+
+## Certifications
+
+-  CompTIA Security+
+-  CompTIA Network+
+-  CompTIA CySA+ *(studying for August 2025 exam)*
+-  Microsoft SC-900: Security, Compliance & Identity Fundamentals
+-  Google Cybersecurity Professional Certificate
+
+---
+
 ## Projects
-# TryHackMe Labs
-Through TryHackMe Labs, I learned the essential skills and tools needed to be successful as a level 1 SOC analyst. I read about tools including Autopsy, Splunk, Wireshark, TCP dump, 
-# At Home Lab
-Configured a segmented lab using **pfSense**, **Kali Linux**, and **Windows VMs** to practice:
-- Firewall rules
-- VLAN isolation
-- IDS/IPS configuration
-- Nmap scanning and packet analysis
 
+### TryHackMe Labs – SOC Training Path
 
+Completed modules from **SOC Level 1** as well as their **SOC Simulator** and actively progressing through **SOC Level 2**, focusing on real-world analyst skills.
 
+#### Key Topics Covered:
+-Cyber Defense Frameworks including MITRE frameworks and threat actor mapping
+-Cyber Threat Intelligence with **OpenCTI**, **Yara**, and **MISP**
+-Endpoit secuirty monitoring with **Sysmon**, **Wazuh**, **Windows Event Logs**
+- SIEM fundamentals and log analysis with **Splunk** and **ELK Stack**
+- Network forensics with **Wireshark**, **Brim**, and **Snort**
+- Malware analysis basics with tools like **Autopsy**
+- Phishing prevention with tools like **any.run**, **Messageheader**, **Talos**, **Hybrid Analysis**, and **PhishTool**
+#### Hands-On Experience:
+- Accessed simulated virtual machines to complete lab exercises and answer security incident questions
+- Monitored and analyzed **live alert data** as part of a simulated attack scenario
+- Identified and documented critical events such as:
+  - PowerShell execution
+  - Reverse shell connections
+  - Suspicious DNS requests
+- Created detailed **case reports** highlighting:
+  - Indicators of Compromise (IOCs)
+  - Timeline of attacker activity
+  - Defensive recommendations
+- Investigated phishing scenarios using `.LNK` file masquerading as a PDF:
+  - File downloaded PowerShell payload from GitHub
+  - Reverse shell established
+  - Documented full attack chain and mitigations
+
+---
+
+### At-Home Cybersecurity Lab
+
+A custom-built virtual network lab designed for testing firewall rules, VLANs, and intrusion detection techniques.
+
+#### Objective
+To build a hands-on cybersecurity lab environment using **pfSense**, **Kali Linux**, and **Windows VMs** for:
+- Firewall configuration
+- Network segmentation
+- Intrusion detection and response
+- Traffic capture and analysis
+
+#### Environment Setup
+- Host: **macOS** running **VMware Fusion**
+- Network: **Bridged over Wi-Fi**
+- VMs:
+  - `pfSense`: Configured as firewall, DHCP server, and IDS
+  - `Windows 10`: Two VMs simulating endpoint behavior
+  - `Kali Linux`: Used for scanning, exploitation, and packet crafting
+- Network Layout:
+  - LAN: `192.168.2.0/24`
+  - WAN: `192.168.1.0/24`
+  - VLAN: `192.168.10.0/24`
+
+#### Skills Practiced
+- Static IP configuration in **Windows** and **Kali**
+- Bridging virtual interfaces over Wi-Fi
+- Configuring **VLANs** and routing rules in **pfSense**
+- Enabling and tuning **Snort** for packet inspection and alerting
+- Capturing and analyzing traffic via:
+  - `pfSense`'s built-in capture tool
+  - Deep packet inspection in **Wireshark**
+- Verifying **ICMP traffic**, troubleshooting DNS, and rule testing
+- Installing and configuring **pfBlockerNG** for enhanced firewall and ad-blocking capabilities
