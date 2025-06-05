@@ -6,14 +6,27 @@ Security+ and Network+. Skilled in Java, Python, SQL, and cybersecurity tools (S
 Wireshark, Snort, etc). Strong multitasking and problem-solving abilities, with hands-on
 experience through at home labs on network security and system configuration.
 
-## Objective
-
 ## How I Stay Informed
+I stay current with cybersecurity trends, techniques, and threats by listening to Gerald Auger's Simply Cyber Podcast(https://www.youtube.com/@SimplyCyber) and by reading articles on CSO Online.
 
 ## Certificates
-<img src="https://www.google.com/imgres?q=comptia&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2F1d9d2038-abf7-49b4-a8db-c6fb884dfdb5%2Fblob.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forg%2Fcomptia&docid=b6rk67d_iGO1XM&tbnid=ILnMhqYY8tu5_M&vet=12ahUKEwix-oPRmNmNAxXdCnkGHfK1PHEQM3oECB4QAA..i&w=600&h=600&hcb=2&ved=2ahUKEwix-oPRmNmNAxXdCnkGHfK1PHEQM3oECB4QAA![image](https://github.com/user-attachments/assets/5aae72f8-c312-4d9b-9a38-3241f0a43180)"
-
+Comp TIA Security+
+Comp TIA Network+
+Comp TIA CYSA+ (Studying for August 2025 exam)
+Microsoft SC-900: Security, Compliance & Identity Fundamentals
+Google Cybersecurity Proffessional Certificate
+TryHackMe SOC Level 1
+TryHackMe SOC Level 2 (In Progress, aiming for August completion) 
 ## Projects
+TryHackMe Labs
+SOC Siulator, vuild on this with the additon of what you learn from SOC level 1
+At Home Lab
+Configured a segmented lab using **pfSense**, **Kali Linux**, and **Windows VMs** to practice:
+- Firewall rules
+- VLAN isolation
+- IDS/IPS configuration
+- Nmap scanning and packet analysis
 
+## Technical Skills
 
 
