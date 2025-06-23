@@ -96,3 +96,18 @@ To build a hands-on cybersecurity lab environment using **pfSense**, **Kali Linu
   - Deep packet inspection in **Wireshark**
 - Verifying **ICMP traffic**, troubleshooting DNS, and rule testing
 - Installing and configuring **pfBlockerNG** for enhanced firewall and ad-blocking capabilities
+###Microsoft Sentinel Log Ingestion Lab
+**Tools:** Microsoft Entra ID, Microsoft Sentinel, Azure Logic Apps, Log Analytics, Azure Storage  
+**Skills:** SIEM log ingestion, cloud automation, cross-tenant integration, KQL queries
+
+To gain hands-on experience with Microsoft Sentinel, I built a lab simulating real-world log ingestion from a separate Azure tenant.
+
+Since Sentinel was only available in my school's tenant and Microsoft Entra was available in my personal tenant, I developed a solution to bridge the two using native Azure services:
+
+- 📤 Exported **Entra sign-in logs** (.csv) from my personal/test tenant.
+- ☁️ Created an **Azure Storage Account** and blob container in my school tenant to host the log file.
+- ⚙️ Deployed a **Logic App** that:
+  - Runs on a scheduled trigger
+  - Reads the uploaded `.csv` from blob storage
+  - Sends each log entry to a **custom table** in my Log Analytics workspace
+- 🔍 Queried the ingested logs in Microsoft Sentinel using **KQL** for visibility and analysis.
