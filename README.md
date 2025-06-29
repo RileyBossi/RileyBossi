@@ -99,16 +99,27 @@ To build a hands-on cybersecurity lab environment using **pfSense**, **Kali Linu
 
 ### Microsoft Sentinel Log Ingestion Lab
 **Tools:** Microsoft Entra ID, Microsoft Sentinel, Azure Logic Apps, Log Analytics, Azure Storage  
-**Skills:** SIEM log ingestion, cloud automation, cross-tenant integration, KQL queries
+**Skills:** SIEM log ingestion, KQL queries, identity and access management, MFA configuration, Conditional Access, cross-tenant automation
 
-To gain hands-on experience with Microsoft Sentinel, I built a lab simulating real-world log ingestion from a separate Azure tenant.
+To gain hands-on experience with Microsoft Sentinel and Microsoft Entra ID, I created a lab that simulates log ingestion and analysis from a separate Azure tenant. Since Sentinel was only available in my **school tenant**, and full admin access to Microsoft Entra was available in my **personal test tenant**, I set up both environments independently and bridged them using Azure-native services.
 
-Since Sentinel was only available in my school's tenant and Microsoft Entra was available in my personal tenant, I developed a solution to bridge the two using native Azure services:
+In my **Microsoft Entra ID test tenant**, I built a realistic identity environment by:
+- Creating multiple test users with various roles (e.g., Global Reader, User Administrator)
+- Organizing users into security groups such as Finance, IT, Sales, and HR.
+- Enabling MFA for selected users through both per-user settings and Conditional Access policies
+- Creating and applying **Conditional Access policies** that:
+  - Enforce MFA when logging in from outside the U.S.
+  - Block access from legacy authentication clients
+- Enabling **Identity Protection features**, including user risk and sign-in risk policies
+- Simulating sign-ins, risky behavior, and policy triggers to generate activity in Entra audit and sign-in logs
 
-- 📤 Exported **Entra sign-in logs** (.csv) from my personal/test tenant.
-- ☁️ Created an **Azure Storage Account** and blob container in my school tenant to host the log file.
-- ⚙️ Deployed a **Logic App** that:
+Since I couldn’t connect Microsoft Sentinel directly to a different tenant, I used the following method to ingest the logs:
+
+- Exported **Microsoft Entra sign-in logs** as `.csv` from the test tenant
+- Created an **Azure Storage Account** and private **blob container** in the school tenant
+- Uploaded the log file to blob storage
+- Deployed a **Logic App** that:
   - Runs on a scheduled trigger
-  - Reads the uploaded `.csv` from blob storage
-  - Sends each log entry to a **custom table** in my Log Analytics workspace
-- 🔍 Queried the ingested logs in Microsoft Sentinel using **KQL** for visibility and analysis.
+  - Reads and parses the `.csv` from blob storage
+  - Sends each log entry to a **custom Log Analytics table** (`EntraLog_CL`) linked to Microsoft Sentinel
+
