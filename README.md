@@ -96,7 +96,8 @@ To build a hands-on cybersecurity lab environment using **pfSense**, **Kali Linu
   - Deep packet inspection in **Wireshark**
 - Verifying **ICMP traffic**, troubleshooting DNS, and rule testing
 - Installing and configuring **pfBlockerNG** for enhanced firewall and ad-blocking capabilities
-###Microsoft Sentinel Log Ingestion Lab
+
+### Microsoft Sentinel Log Ingestion Lab
 **Tools:** Microsoft Entra ID, Microsoft Sentinel, Azure Logic Apps, Log Analytics, Azure Storage  
 **Skills:** SIEM log ingestion, cloud automation, cross-tenant integration, KQL queries
 
