@@ -18,6 +18,26 @@ I actively stay up to date with cybersecurity trends, tools, and threat intellig
 - Listening to [**Gerald Auger's Simply Cyber Podcast**](https://www.youtube.com/@SimplyCyber)
 - Reading articles on **CSO Online** and other industry blogs
 - Participating in **TryHackMe** labs and training pathways
+- Reading DFIR Reports
+
+ ### Lessons Learned
+
+Staying informed isn’t just about consuming information—it’s about applying it to sharpen your mindset as a defender. Here are some key takeaways I’ve gained from my continuous learning:
+<br><br>
+- **Security is about fundamentals, not magic tools**
+Reading through DFIR Reports showed me that most breaches don’t involve zero-days—they succeed due to poor hygiene like weak credentials, unpatched systems, and excessive privileges. Solid security practices often matter more than expensive tools.
+<br>
+- **There is no silver bullet to stop infiltration**
+Even advanced environments get compromised. Whether it’s phishing via .LNK files or living-off-the-land attacks, attackers often take advantage of legitimate tools. What matters is visibility, response readiness, and limiting the blast radius.
+<br>
+- **Logs tell a story—context makes it actionable**
+Working with Sentinel, ELK, and Splunk taught me that raw alerts mean little without understanding why they happened. Correlating login anomalies, PowerShell execution, or DNS tunneling attempts helps uncover real threats hiding in noise.
+<br>
+- **Threat actor behavior is more important than malware signatures**
+Following MITRE ATT&CK and hands-on labs in TryHackMe has helped me focus on TTPs (Tactics, Techniques, and Procedures) rather than just IOCs. This mindset helps in catching novel or evolving threats.
+<br>
+- **Staying updated is a discipline, not a task**
+Whether it’s podcast discussions, new malware analysis reports, or fresh CVEs, I treat staying informed as part of my cybersecurity hygiene—just like patching a system or reviewing firewall rules.
 
 ---
 
