@@ -116,9 +116,9 @@ To build a hands-on cybersecurity lab environment using **pfSense**, **Kali Linu
 ### Microsoft Sentinel Log Ingestion Lab
 **Tools:** Microsoft Entra ID, Microsoft Sentinel, Azure Logic Apps, Log Analytics, Azure Storage  
 **Skills:** SIEM log ingestion, KQL queries, identity and access management, MFA configuration, Conditional Access, cross-tenant automation
-
+#### Objectives
 To gain hands-on experience with Microsoft Sentinel and Microsoft Entra ID, I created a lab that simulates log ingestion and analysis from a separate Azure tenant. Since Sentinel was only available in my **school tenant**, and full admin access to Microsoft Entra was available in my **personal test tenant**, I set up both environments independently and bridged them using Azure-native services.
-
+#### Enviorment Setup And Skills Practiced
 In my **Microsoft Entra ID test tenant**, I built a realistic identity environment by:
 - Creating multiple test users with various roles (e.g., Global Reader, User Administrator)
 - Organizing users into security groups such as Finance, IT, Sales, and HR.
