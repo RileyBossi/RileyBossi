@@ -41,7 +41,7 @@ Whether it’s podcast discussions, new malware analysis reports, or fresh CVEs,
 
 -  CompTIA Security+
 -  CompTIA Network+
--  CompTIA CySA+ *(studying for August 2025 exam)*
+-  CompTIA CySA+
 -  Microsoft SC-900: Security, Compliance & Identity Fundamentals
 -  Google Cybersecurity Professional Certificate
 
