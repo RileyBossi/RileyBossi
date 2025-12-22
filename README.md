@@ -51,15 +51,17 @@ Whether it’s podcast discussions, new malware analysis reports, or fresh CVEs,
 
 ### TryHackMe Labs – SOC Training Path
 
-Completed modules from **SOC Level 1** as well as their **SOC Simulator** and actively progressing through **SOC Level 2**, focusing on real-world analyst skills.
+Completed modules from **SOC Level 1** and **SOC Level 2** as well as their **SOC Simulator**, focusing on real-world analyst skills.
 
 #### Key Topics Covered:
-- Cyber Defense Frameworks including MITRE frameworks and threat actor mapping
+- SOC operations including alert triafe, escalation, and incident response workflows
+- Cyber defense frameworks with **MITRE ATT&CK** and threat actor behavior mapping
 - Cyber Threat Intelligence with **OpenCTI**, **Yara**, and **MISP**
 - Endpoit secuirty monitoring with **Sysmon**, **Wazuh**, **Windows Event Logs**
-- SIEM fundamentals and log analysis with **Splunk** and **ELK Stack**
+- SIEM and log correlation using **Splunk** and the **ELK Stack**
 - Network forensics with **Wireshark**, **Brim**, and **Snort**
-- Malware analysis basics with tools like **Autopsy**
+- Malware analysis fundamentals including PE header analysis, static analysis and dynamic analysis.
+- Detection of living-off-the-land techniques, persistence, and lateral movement
 - Phishing prevention with tools like **any.run**, **Messageheader**, **Talos**, **Hybrid Analysis**, and **PhishTool**
 #### Hands-On Experience:
 - Accessed simulated virtual machines to complete lab exercises and answer security incident questions
