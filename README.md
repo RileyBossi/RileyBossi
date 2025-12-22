@@ -7,7 +7,7 @@
 ---
 
 I'm a passionate and ambitious **Computer Science student** with a **3.8 GPA**, currently studying at Central Connecticut State University.  
-I'm certified in **CompTIA Security+** and **Network+**, and have hands-on experience through personal labs focused on **network security**, **firewall configuration**, and **intrusion detection**.
+I'm certified in **CompTIA CYSA+, Security+,** and **Network+**, and have hands-on experience through personal labs focused on **network security**, **firewall configuration**, and **intrusion detection**.
 
 ---
 
