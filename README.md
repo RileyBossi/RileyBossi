@@ -12,7 +12,7 @@ I'm certified in **CompTIA CYSA+, Security+,** and **Network+**, and have hands-
 ---
 
 ## My Current Role - IT Support Technician
-I currently work as an IT Suopport Technician at a Managed Service Provider (MSP), supporting multiple client enviorments with a strong focus on security operations, monitoring, ensuring a zero trust enviorment, alongside traditional Level 1 and Level 2 help desk responsibilites.
+I currently work as an IT Suopport Technician at a Managed Service Provider (MSP), supporting multiple client enviorments with a focus on security operations, monitoring, zero trust, alongside traditional Level 1 and Level 2 help desk responsibilites.
 
 This role allows me to apply SOC concepts in real production enviorments while supporting day-to-day IT operations across diverse networks.
 
