@@ -11,6 +11,31 @@ I'm certified in **CompTIA CYSA+, Security+,** and **Network+**, and have hands-
 
 ---
 
+## My Current Role - IT Support Technician
+I currently work as an IT Suopport Technician at a Managed Service Provider (MSP), supporting multiple client enviorments with a strong focus on securit operations, monitoring, ensuring a zero trust enviorment, alongside traditional Level 1 and Level 2 help desk responsibilites.
+
+This role allows me to apply SOC concepts in real production enviorments while supporting day-to-day IT operations across diverse networks.
+
+### Security Responsibilites
+- Creating and maintaining custom allow/deny rules with ringfencing and setting up detections using ThreatLocker to enforce application control and reduce attack surface. In addition, I utilize the Unified Audit capability on ThreatLocker to look for any anomalies.
+- Investigating security alerts through our MSSP provided SIEM, including endpoint activity, authentication anomolies, and sispcious process execution.
+- Using PowerShell through our RMM to query and analyze Windows Event Logs, investigate login failures and suspicous activity, and validate alerts.
+
+### IAM Responsibilites
+- Managing users and security settings across the Microsft Admin and Google Workspace ecosystem.
+- Onboarding and offboarding users securely.
+- Ensuring Zero Trust through least privilege, never trust, verify explicitly, and assume beach.
+- Improving tenant security posture by reviewing and increasing Microsoft Secure Score, enforcing MFA and security defaults, and addressing risky behaviour.
+
+### IT Operations
+- Providing Tier 1-2 IT support across multiple client enviorments.
+- Troubleshoot and resolve workstation, printer, DNS, and Network issues.
+- Configruing and maintaining firewall rules, ThreatLcoker Application Control, network devices, and secure remote access solutions.
+- Supporting patch management procedures.
+- Documenting incidents, fixes, and configurations clearly for tracking and to prevent similar issues in the future. 
+
+---
+
 ## How I Stay Informed
 
 I actively stay up to date with cybersecurity trends, tools, and threat intelligence by:
