@@ -13,7 +13,7 @@ I'm a passionate and ambitious **Computer Science student** at Central Connectic
 ## My Current Role - IT Support Technician
 I currently work as an IT Support Technician at a Managed Service Provider (MSP), supporting multiple client enviorments with a focus on security operations, monitoring, and zero trust, in addition to traditional Level 1 and Level 2 help desk responsibilities.
 
-This role allows me to apply SOC concepts in real production environemnts while supporting day-to-day IT operations across diverse networks.
+This role allows me to apply SOC concepts in real production environments while supporting day-to-day IT operations across diverse networks.
 
 ### Security Responsibilites
 - Investigate phishing emails by analyzing indicators of compromise and detonating attachments and URLs in sandbox environments. 
