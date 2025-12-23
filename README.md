@@ -30,7 +30,7 @@ This role allows me to apply SOC concepts in real production environments while 
 ### IT Operations
 - Providing Tier 1-2 IT support across multiple client enviorments.
 - Troubleshoot and resolve workstation, printer, DNS, and Network issues.
-- Configruing and maintaining firewall rules, ThreatLcoker Application Control, network devices, and secure remote access solutions.
+- Configuring and maintaining firewall rules, ThreatLcoker Application Control, and network devices.
 - Supporting patch management procedures.
 - Documenting incidents, fixes, and configurations clearly for tracking and to prevent similar issues in the future. 
 
@@ -50,7 +50,7 @@ I actively stay up to date with cybersecurity trends, tools, and threat intellig
 Staying informed isn’t just about consuming information—it’s about applying it to sharpen your mindset as a defender. Here are some key takeaways I’ve gained from my continuous learning:
 <br><br>
 - **Security is about fundamentals, not magic tools** <br>
-Reading through DFIR Reports showed me that most breaches don’t involve zero-days—they succeed due to poor hygiene like weak credentials, unpatched systems, and excessive privileges. Solid security practices often matter more than expensive tools.<br>
+Reading through DFIR Reports showed me that most breaches don’t involve zero-days, they succeed due to poor hygiene like weak credentials, unpatched systems, and excessive privileges. Solid security practices often matter more than expensive tools.<br>
 - **There is no silver bullet to stop infiltration** <br>
 Even advanced environments get compromised. Whether it’s phishing via .LNK files or living-off-the-land attacks, attackers often take advantage of legitimate tools. What matters is visibility, response readiness, and limiting the blast radius.<br>
 - **Logs tell a story—context makes it actionable** <br>
@@ -79,7 +79,7 @@ Whether it’s podcast discussions, new malware analysis reports, or fresh CVEs,
 Completed modules from **SOC Level 1** and **SOC Level 2** as well as their **SOC Simulator**, focusing on real-world analyst skills.
 
 #### Key Topics Covered:
-- SOC operations including alert triafe, escalation, and incident response workflows
+- SOC operations including alert triage, escalation, and incident response workflows
 - Cyber defense frameworks with **MITRE ATT&CK** and threat actor behavior mapping
 - Cyber Threat Intelligence with **OpenCTI**, **Yara**, and **MISP**
 - Endpoit secuirty monitoring with **Sysmon**, **Wazuh**, **Windows Event Logs**
