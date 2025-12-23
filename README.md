@@ -16,10 +16,10 @@ I currently work as an IT Support Technician at a Managed Service Provider (MSP)
 This role allows me to apply SOC concepts in real production environemnts while supporting day-to-day IT operations across diverse networks.
 
 ### Security Responsibilites
-- Investigating phishing emails and running them through sandbox enviorments such as any.run. 
-- Creating and maintaining custom allow/deny rules with ringfencing and setting up detections using ThreatLocker to enforce application control and reduce the attack surface. In addition, I utilize the Unified Audit capability on ThreatLocker to look for any anomalies.
-- Investigating security alerts through our MSSP provided SIEM, including endpoint activity, authentication anomolies, and suspicious process execution.
-- Using PowerShell through our RMM to query and analyze Windows Event Logs, investigate login failures and suspicous activity, and validate alerts.
+- Investigate phishing emails by analyzing indicators of compromise and detonating attachments and URLs in sandbox environments. 
+- Create and maintain custom allow/deny policies with ringfencing and setting up detection rules in ThreatLocker to enforce application control and reduce the attack surface; leverage Unified Audit to identify anomalies and suspicious activity. 
+- Investigate security alerts through an MSSP provided SIEM, including endpoint activity, authentication anomolies, and suspicious process execution.
+- Using PowerShell via the RMM to query and analyze Windows Event Logs, investigate login failures, and validate alerts.
 
 ### IAM Responsibilites
 - Managing users and security settings across the Microsoft Admin and Google Workspace ecosystem.
