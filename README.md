@@ -12,20 +12,20 @@ I'm certified in **CompTIA CYSA+, Security+,** and **Network+**, and have hands-
 ---
 
 ## My Current Role - IT Support Technician
-I currently work as an IT Suopport Technician at a Managed Service Provider (MSP), supporting multiple client enviorments with a focus on security operations, monitoring, zero trust, alongside traditional Level 1 and Level 2 help desk responsibilites.
+I currently work as an IT Support Technician at a Managed Service Provider (MSP), supporting multiple client enviorments with a focus on security operations, monitoring, zero trust, alongside traditional Level 1 and Level 2 help desk responsibilities.
 
 This role allows me to apply SOC concepts in real production enviorments while supporting day-to-day IT operations across diverse networks.
 
 ### Security Responsibilites
-- Investigating phising emails and running them through sandbox enviorments such as any.run. 
-- Creating and maintaining custom allow/deny rules with ringfencing and setting up detections using ThreatLocker to enforce application control and reduce attack surface. In addition, I utilize the Unified Audit capability on ThreatLocker to look for any anomalies.
-- Investigating security alerts through our MSSP provided SIEM, including endpoint activity, authentication anomolies, and sispcious process execution.
+- Investigating phishing emails and running them through sandbox enviorments such as any.run. 
+- Creating and maintaining custom allow/deny rules with ringfencing and setting up detections using ThreatLocker to enforce application control and reduce the attack surface. In addition, I utilize the Unified Audit capability on ThreatLocker to look for any anomalies.
+- Investigating security alerts through our MSSP provided SIEM, including endpoint activity, authentication anomolies, and suspicious process execution.
 - Using PowerShell through our RMM to query and analyze Windows Event Logs, investigate login failures and suspicous activity, and validate alerts.
 
 ### IAM Responsibilites
-- Managing users and security settings across the Microsft Admin and Google Workspace ecosystem.
+- Managing users and security settings across the Microsoft Admin and Google Workspace ecosystem.
 - Onboarding and offboarding users securely.
-- Ensuring Zero Trust through least privilege, never trust, verify explicitly, and assume beach.
+- Ensuring Zero Trust through least privilege, verify explicitly, and assume beach.
 - Improving tenant security posture by reviewing and increasing Microsoft Secure Score, enforcing MFA and security defaults, and addressing risky behaviour.
 
 ### IT Operations
