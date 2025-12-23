@@ -17,6 +17,7 @@ I currently work as an IT Suopport Technician at a Managed Service Provider (MSP
 This role allows me to apply SOC concepts in real production enviorments while supporting day-to-day IT operations across diverse networks.
 
 ### Security Responsibilites
+- Investigating phising emails and running them through sandbox enviorments such as any.run. 
 - Creating and maintaining custom allow/deny rules with ringfencing and setting up detections using ThreatLocker to enforce application control and reduce attack surface. In addition, I utilize the Unified Audit capability on ThreatLocker to look for any anomalies.
 - Investigating security alerts through our MSSP provided SIEM, including endpoint activity, authentication anomolies, and sispcious process execution.
 - Using PowerShell through our RMM to query and analyze Windows Event Logs, investigate login failures and suspicous activity, and validate alerts.
