@@ -171,9 +171,10 @@ Since I couldn’t connect Microsoft Sentinel directly to a different tenant, I 
 
  ### JavaScript Project
 
- **Amazon Porject** <a href="https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html">
+ **Amazon Project** <a href="https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Project" height="30"/>
 </a><br>
+ 
 
 [**JavaScript Tutorial**](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=1s) 
 
@@ -194,15 +195,11 @@ Amazon Clone Project
 - Work with API's
 
 #### Security-Focused Takeaways
-While building this project, I gained valuable insights into web application security: <br><br>
-##### Client-Side Attack Surface
-Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.
-##### Data Handling and Storage 
-Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.
-##### Input Validation Importance
-Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
-##### Code Obfuscation and Reverse Engineering
-Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
+While building this project, I gained valuable insights into web application security: 
+- Client-Side Attack Surface <br> Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.
+- Data Handling and Storage <br> Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.
+- Input Validation Importance <br> Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
+- Code Obfuscation and Reverse Engineering <br> Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
 
 #### Skills Developed
 JavaScript fundamentals including functions, objects, classes, and arrays
