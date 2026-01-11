@@ -171,8 +171,8 @@ Since I couldn’t connect Microsoft Sentinel directly to a different tenant, I 
 
  ### JavaScript Project
 
-[**Amazon Project**]([https://www.youtube.com/@SimplyCyber](https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html)) 
-[**JavaScript Tutorial**]([https://www.youtube.com/watch?v=EerdGm-ehJQ&t=1s)) 
+[**Amazon Project**](https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html) 
+[**JavaScript Tutorial**](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=1s) 
 
  #### Objective
 
