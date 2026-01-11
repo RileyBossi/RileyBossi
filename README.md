@@ -166,3 +166,37 @@ Since I couldn’t connect Microsoft Sentinel directly to a different tenant, I 
   - Reads and parses the `.csv` from blob storage
   - Sends each log entry to a **custom Log Analytics table** (`EntraLog_CL`) linked to Microsoft Sentinel
 
+
+ ---
+
+ ### JavaScript Project
+
+ Amazon Project
+ Tutorial
+
+ #### Objective
+
+To expand my programming foundation beyond Java, Python, and SQL by learning JavaScript—a critical language for understanding web application security. This project was designed to deepen my knowledge of client-side code execution, data handling, and the attack surface present in modern web applications.
+Project Overview
+Live Demo: Amazon Clone Project
+Learning Resource: JavaScript Tutorial - freeCodeCamp
+Built a functional e-commerce application featuring:
+Dynamic product catalog with real-time cart management
+Interactive UI with event-driven programming
+Local storage implementation for cart persistence
+Order processing and checkout workflow
+Responsive design across multiple pages
+Security-Focused Takeaways
+While building this project, I gained valuable insights into web application security: <br><br>
+Client-Side Attack Surface <br> Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.<br>
+Data Handling and Storage <br> Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.<br>
+Input Validation Importance <br> Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
+Code Obfuscation and Reverse Engineering <br> Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
+Skills Developed
+JavaScript fundamentals including functions, objects, arrays, and ES6+ features
+DOM manipulation and event handling for dynamic user interfaces
+Asynchronous JavaScript concepts relevant to API security
+Understanding of how modern web applications handle state and user data
+Foundation for identifying client-side vulnerabilities during security assessments
+This project bridges my backend scripting experience with frontend development, providing a more complete picture of web application architecture—essential knowledge for conducting thorough security assessments and understanding the full attack chain in web-based threats.
+
