@@ -176,7 +176,7 @@ Since I couldn’t connect Microsoft Sentinel directly to a different tenant, I 
 
  #### Objective
 
-To expand my programming foundation beyond Java, Python, and SQL by learning JavaScript. A critical language for understanding web application security. This project was designed to deepen my knowledge of client-side code execution, data handling, and the attack surface present in modern web applications.
+To expand my programming foundation beyond Java, Python, SQL, Assembly Language, HTML, and CSS by learning JavaScript. I found this important because JavaScript is a critical language for understanding web application security. This project was designed to deepen my knowledge of client-side code execution, data handling, and the attack surface present in modern web applications.
 
 #### Project Overview
 Amazon Clone Project
@@ -187,16 +187,22 @@ Amazon Clone Project
 - Local storage implementation for cart persistence
 - Order processing and checkout workflow
 - Responsive design across multiple pages
+- Work with git tools
+- Work with API's
 
 #### Security-Focused Takeaways
 While building this project, I gained valuable insights into web application security: <br><br>
-Client-Side Attack Surface <br> Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.<br>
-Data Handling and Storage <br> Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.<br>
-Input Validation Importance <br> Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
-Code Obfuscation and Reverse Engineering <br> Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
+##### Client-Side Attack Surface
+Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.
+##### Data Handling and Storage 
+Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.
+##### Input Validation Importance
+Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
+##### Code Obfuscation and Reverse Engineering
+Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
 
 #### Skills Developed
-JavaScript fundamentals including functions, objects, arrays, and ES6+ features
+JavaScript fundamentals including functions, objects, classes, and arrays
 DOM manipulation and event handling for dynamic user interfaces
 Asynchronous JavaScript concepts relevant to API security
 Understanding of how modern web applications handle state and user data
