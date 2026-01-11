@@ -6,12 +6,12 @@
 
 ---
 
-I'm a passionate and ambitious **Computer Science student** at Central Connecticut State University with a **3.8 GPA**. I hold **CompTIA CYSA+, Security+,** and **Network+** certifications and have hands-on experience gained both on the job and through personal labs focused on **network security**, **firewall configuration**, and **intrusion detection**.
+I'm a passionate and ambitious **Computer Science student** at Central Connecticut State University. I hold **CompTIA CYSA+, Security+,** and **Network+** certifications and have hands-on experience gained both on the job and through personal labs focused on **network security**, **firewall configuration**, and **intrusion detection**.
 
 ---
 
 ## My Current Role - IT Support Technician
-I currently work as an IT Support Technician at a Managed Service Provider (MSP), supporting multiple client environments with a focus on security operations, monitoring, and zero trust, in addition to traditional Level 1 and Level 2 help desk responsibilities.
+I currently work as an IT Support Technician at a Managed Service Provider (MSP), supporting multiple client environments with a focus on security operations, monitoring, zero trust, in addition to traditional Level 1 and Level 2 help desk responsibilities.
 
 This role allows me to apply SOC concepts in real production environments while supporting day-to-day IT operations across diverse networks.
 
