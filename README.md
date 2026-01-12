@@ -207,5 +207,6 @@ While building this project, I gained valuable insights into web application sec
 Asynchronous JavaScript concepts relevant to API security
 - Understanding of how modern web applications handle state and user data
 - Foundation for identifying client-side vulnerabilities during security assessments
+
 This project bridges my backend scripting experience with frontend development, providing a more complete picture of web application architecture—essential knowledge for conducting thorough security assessments and understanding the full attack chain in web-based threats.
 
