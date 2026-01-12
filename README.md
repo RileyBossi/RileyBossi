@@ -106,6 +106,29 @@ Completed modules from **SOC Level 1** and **SOC Level 2** as well as their **SO
 
 ---
 
+### TryHackMe Labs – Junior Penetration Tester
+Completed hands-on modules from TryHackMe’s Junior Penetration Tester pathway to better understand attacker methodology and translate offensive techniques into stronger defensive controls.
+#### Objective
+Develop an attacker’s mindset to improve detection, alert triage, and incident response by understanding how real-world attacks are executed from initial access through privilege escalation.
+#### Skills & Tools Used
+- Network and service enumeration with nmap
+- Web application testing using Burp Suite
+- Controlled exploitation with Metasploit
+- Linux and Windows privilege escalation fundamentals
+- Credential abuse and misconfiguration analysis
+- Mapping attacker behavior to MITRE ATT&CK
+#### Defensive Takeaways
+- Most successful attacks rely on misconfigurations, weak credentials, and excessive privileges, not zero-days
+- Enumeration is the most critical phase and often exposes preventable weaknesses
+- Privilege escalation and post-exploitation activity generate logs defenders can detect with proper monitoring
+- Understanding attacker workflow improves response speed, containment, and defensive hardening
+#### Hands-On Experience
+- Executed end-to-end attack simulations from discovery to post-exploitation
+- Identified exposed services, weak permissions, and escalation paths
+- Documented attack chains and produced defensive recommendations to reduce attack surface and improve visibility
+
+---
+
 ### At-Home Cybersecurity Lab
 
 A custom-built virtual network lab designed for testing firewall rules, VLANs, and intrusion detection techniques.
