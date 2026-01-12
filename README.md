@@ -30,7 +30,7 @@ This role allows me to apply SOC concepts in real production environments while 
 ### IT Operations
 - Providing Tier 1-2 IT support across multiple client enviorments.
 - Troubleshoot and resolve workstation, printer, DNS, and Network issues.
-- Configuring and maintaining firewall rules, ThreatLcoker Application Control, and network devices.
+- Configuring and maintaining firewall rules, ThreatLocker Application Control, and network devices.
 - Supporting patch management procedures.
 - Documenting incidents, fixes, and configurations clearly for tracking and to prevent similar issues in the future. 
 
