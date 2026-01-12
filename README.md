@@ -196,16 +196,16 @@ Amazon Clone Project
 
 #### Security-Focused Takeaways
 While building this project, I gained valuable insights into web application security: 
-- Client-Side Attack Surface <br> Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.
-- Data Handling and Storage <br> Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.
-- Input Validation Importance <br> Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
-- Code Obfuscation and Reverse Engineering <br> Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
+- <b>Client-Side Attack Surface </b><br> Understanding how JavaScript executes in the browser helped me recognize common vulnerabilities like DOM-based XSS, where unsanitized user input can manipulate page behavior.
+- <b>Data Handling and Storage </b><br> Implementing local storage for cart data illustrated the security implications of client-side data persistence, including the risks of storing sensitive information in the browser.
+- <b>Input Validation Importance</b> <br> Working with user interactions (product selection, quantity inputs, form submissions) reinforced the need for proper input validation and the dangers of trusting client-side controls.<br>
+- <b>Code Obfuscation and Reverse Engineering </b><br> Building the application from scratch gave me insight into how attackers might analyze JavaScript code to identify business logic flaws or API endpoints.
 
 #### Skills Developed
-JavaScript fundamentals including functions, objects, classes, and arrays
-DOM manipulation and event handling for dynamic user interfaces
+- JavaScript fundamentals including functions, objects, classes, and arrays
+- DOM manipulation and event handling for dynamic user interfaces
 Asynchronous JavaScript concepts relevant to API security
-Understanding of how modern web applications handle state and user data
-Foundation for identifying client-side vulnerabilities during security assessments
+- Understanding of how modern web applications handle state and user data
+- Foundation for identifying client-side vulnerabilities during security assessments
 This project bridges my backend scripting experience with frontend development, providing a more complete picture of web application architecture—essential knowledge for conducting thorough security assessments and understanding the full attack chain in web-based threats.
 
