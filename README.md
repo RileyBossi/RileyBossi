@@ -194,7 +194,7 @@ Since I couldn’t connect Microsoft Sentinel directly to a different tenant, I 
 
  ### JavaScript Project
 
- **Amazon Project Link:** <a href="https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html">
+[**Amazon Project Link:**](https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html) <a href="https://rileybossi.github.io/amazon-project/javascript-amazon-project-main/amazon.html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Project" height="30"/>
 </a><br>
  
