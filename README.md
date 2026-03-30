@@ -6,14 +6,14 @@
 
 ---
 
-I'm a passionate and ambitious **Computer Science student** at Central Connecticut State University. I hold **CompTIA CYSA+, Security+,** and **Network+** certifications and have hands-on experience gained both on the job and through personal labs focused on **network security**, **firewall configuration**, and **intrusion detection**.
+I'm a passionate and ambitious **Computer Science student** at Central Connecticut State University. I hold **CompTIA CYSA+, Security+,** and **Network+** certifications and have hands-on experience gained both on the job and through personal labs.
 
 ---
 
 ## My Current Role - IT Support Technician
 I currently work as an IT Support Technician at a Managed Service Provider (MSP), supporting multiple client environments with a focus on security operations, monitoring, zero trust, and traditional Level 1 and Level 2 help desk responsibilities.
 
-This role allows me to apply SOC concepts in real production environments while supporting day-to-day IT operations across diverse networks.
+This role allows me to apply securuty concepts in real production environments while supporting day-to-day IT operations across diverse networks.
 
 ### Security Responsibilites
 - Investigate phishing emails by analyzing indicators of compromise and detonating attachments and URLs in sandbox environments. 
@@ -24,7 +24,7 @@ This role allows me to apply SOC concepts in real production environments while 
 ### IAM Responsibilites
 - Managing users and security settings across the Microsoft Admin and Google Workspace ecosystem.
 - Onboarding and offboarding users securely.
-- Ensuring Zero Trust through least privilege, verify explicitly, and assume beach.
+- Ensuring Zero Trust through least privilege, verify explicitly, and assume breach.
 - Improving tenant security posture by reviewing and increasing Microsoft Secure Score, enforcing MFA and security defaults, and addressing risky behaviour.
 
 ### IT Operations
