@@ -16,23 +16,23 @@ I currently work as an IT Support Technician at a Managed Service Provider (MSP)
 This role allows me to apply security concepts in real production environments while supporting day-to-day IT operations across diverse networks.
 
 ### Security Responsibilites
-- Investigate phishing emails by analyzing indicators of compromise and detonating attachments and URLs in sandbox environments. 
-- Create and maintain custom allow/deny policies with ringfencing and setting up detection rules in ThreatLocker to enforce application control and reduce the attack surface; leverage Unified Audit to identify anomalies and suspicious activity. 
-- Investigate security alerts through an MSSP provided SIEM, including endpoint activity, authentication anomolies, and suspicious process execution.
-- Using PowerShell via the RMM to query and analyze Windows Event Logs, investigate login failures, and validate alerts.
+- Investigate phishing emails by analyzing indicators of compromise and detonating attachments and URLs in sandbox environments. Contain confirmed threats by updating email security controls, blocking malicious domains and file types as necessary, and educating users on phishing awareness to reduce future incidents.
+- Create and maintain custom allow/deny policies with Ringfencing and detection rules in ThreatLocker to enforce application control, reduce the attack surface, and investigate suspicious activity using Unified Audit.
+- Investigate security alerts through an MSSP provided SIEM, including endpoint activity, authentication anomalies, and suspicious process execution to validate potential threats.
+- Using PowerShell via the RMM to query and analyze Windows Event Logs, investigate login failures, validate security alerts, and accelerate troubleshooting.
 
 ### IAM Responsibilites
 - Managing users and security settings across the Microsoft Admin and Google Workspace ecosystem.
 - Onboarding and offboarding users securely.
-- Ensuring Zero Trust through least privilege, verify explicitly, and assume breach.
-- Improving tenant security posture by reviewing and increasing Microsoft Secure Score, enforcing MFA and security defaults, and addressing risky behaviour.
+- Applying Zero Trust principles through least privilege, verify explicitly, and assume breach.
+- Improving tenant security posture by increasing Microsoft Secure Score, enforcing MFA and security defaults, and addressing risky behavior.
 
 ### IT Operations
-- Providing Tier 1-2 IT support across multiple client enviorments.
+- Providing Tier 1-2 IT support across multiple client environments while minimizing downtime and maintaining business continuity.
 - Troubleshoot and resolve workstation, printer, DNS, and Network issues.
-- Configuring and maintaining firewall rules, ThreatLocker Application Control, and network devices.
-- Supporting patch management procedures.
-- Documenting incidents, fixes, and configurations clearly for tracking and to prevent similar issues in the future. 
+- Configuring and maintaining firewall rules, ThreatLocker Application Control, and network devices to improve security and reliability.
+- Supporting patch management procedures to reduce exposure to known vulnerabilities.
+- Documenting incidents, fixes, and configurations clearly for tracking and to prevent similar issues in the future.
 
 ---
 
@@ -64,11 +64,12 @@ Whether it’s podcast discussions, new malware analysis reports, or fresh CVEs,
 
 ## Certifications
 
--  CompTIA Security+
--  CompTIA Network+
--  CompTIA CySA+
--  Microsoft SC-900: Security, Compliance & Identity Fundamentals
--  Google Cybersecurity Professional Certificate
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA CySA+
+- AWS Certified Solutions Architect – Associate
+- Microsoft SC-900: Security, Compliance & Identity Fundamentals
+- Google Cybersecurity Professional Certificate
 
 ---
 
