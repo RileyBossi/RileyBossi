@@ -34,6 +34,11 @@ This role allows me to apply security concepts in real production environments w
 - Supporting patch management procedures to reduce exposure to known vulnerabilities.
 - Documenting incidents, fixes, and configurations clearly for tracking and to prevent similar issues in the future.
 
+### Process Improvement
+- Developed PowerShell and NinjaOne automations to streamline user onboarding, standardize workstation deployment, and reduce manual administrative effort.
+- Created custom ThreatLocker detections and policies to improve visibility into suspicious activity and strengthen endpoint security.
+- Contributed to reducing phishing click-through rates through user education, security awareness, and continuous improvements to email security controls.
+
 ---
 
 ## How I Stay Informed
@@ -127,6 +132,19 @@ Develop an attacker’s mindset to improve detection, alert triage, and incident
 - Executed end-to-end attack simulations from discovery to post-exploitation
 - Identified exposed services, weak permissions, and escalation paths
 - Documented attack chains and produced defensive recommendations to reduce attack surface and improve visibility
+
+---
+
+### AI Security Research
+
+Using AI-assisted development tools to build web applications and evaluate them from an attacker's perspective. I use AI to accelerate development while testing applications for common web vulnerabilities and security weaknesses to better understand both secure coding practices and modern attack techniques.
+
+#### Skills & Technologies
+- AI-assisted software development
+- Secure coding practices
+- Prompt engineering
+- Web application security testing
+- Vulnerability identification and remediation
 
 ---
 
