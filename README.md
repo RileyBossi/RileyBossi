@@ -36,7 +36,7 @@ This role allows me to apply security concepts in real production environments w
 
 ### Process Improvement
 - Developed PowerShell and NinjaOne automations to streamline user onboarding, standardize workstation deployment, and reduce manual administrative effort.
-- Created custom ThreatLocker detections and policies to improve visibility into suspicious activity and strengthen endpoint security.
+- Created custom ThreatLocker and CIPP detections and policies to improve visibility into suspicious activity and strengthen endpoint security.
 - Contributed to reducing phishing click-through rates through user education, security awareness, and continuous improvements to email security controls.
 
 ---
